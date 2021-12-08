@@ -1,3 +1,5 @@
 main:
   - title: "News"
     url: /posts/
+  - title: "The Brown"
+    url: /about/
