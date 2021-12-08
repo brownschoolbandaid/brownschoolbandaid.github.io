@@ -12,7 +12,7 @@ header:
 
 ## WILL YOUR CHILD BE NEXT?
 
-![](/assets/images/injury1.jpg)
+![](/assets/images/injury1.jpeg)
 
 There have been 188 injuries at the brown school playground since school started this fall. Scrapes. Head Injuries. A finger sliced. 3 children with broken bones. Just this week, a child was taken to the hospital in an ambulance..
 
