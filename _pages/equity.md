@@ -1,7 +1,7 @@
 ---
 permalink: /equity/
 title: "Equity with other Somerville Schools"
-layout: slash
+layout: splash
 classes: wide
 header:
   overlay_color: "#000"

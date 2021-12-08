@@ -8,7 +8,7 @@ title: Fixing the Brown School Blacktop
 classes: wide
 header:
   overlay_image: /assets/images/playg.jpg
-feature_row2:
+feature_row:
   - image_path: /assets/images/argenziano.jpeg
     alt: "Argenziano Playground"
     title: "Equity"
@@ -16,7 +16,6 @@ feature_row2:
     url: "/equity/"
     btn_label: "More"
     btn_class: "btn--inverse"
-feature_row3:
   - image_path: /assets/images/browncatchment.png
     alt: "Brown's Catchment Area"
     title: "Catchment"
@@ -24,7 +23,6 @@ feature_row3:
     url: "/catchment/"
     btn_label: "More"
     btn_class: "btn--inverse"
-feature_row4:
   - image_path: /assets/images/revisedturfslide.jpeg
     alt: "Bandaid Solution"
     title: "Bandaid"
@@ -32,7 +30,6 @@ feature_row4:
     url: "/solution/"
     btn_label: "More"
     btn_class: "btn--inverse"
----
 ---
 
 ## WILL YOUR CHILD BE NEXT?
@@ -47,7 +44,5 @@ The Brown School PTA has been asking the school system and the city to quickly p
 
 Our solution can be implemented for less that $250,000 and by the start of the next school year. This is a small price to pay for the safety of our children.
 
-{% include feature_row id="feature_row2" type="left" %}
-{% include feature_row id="feature_row3" type="right" %}
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row  %}
 

@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About Brown School"
-layout: slash
+layout: splash
 classes: wide
 header:
   overlay_color: "#000"

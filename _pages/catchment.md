@@ -1,7 +1,7 @@
 ---
 permalink: /catchment/
 title: "Why Somervillians love the Brown"
-layout: slash
+layout: splash
 classes: wide
 header:
   overlay_color: "#000"

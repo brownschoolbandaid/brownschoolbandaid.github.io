@@ -1,7 +1,7 @@
 ---
 permalink: /solution/
 title: "A Bandaid Solution"
-layout: slash
+layout: splash
 classes: wide
 header:
   overlay_color: "#000"
