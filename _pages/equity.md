@@ -1,9 +1,14 @@
 ---
 permalink: /equity/
 title: "Equity with other Somerville Schools"
+layout: slash
+classes: wide
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
 gallery:
-  - url: /assets/images/Argenziano.jpeg
-    image_path: /assets/images/Argenziano.jpeg
+  - url: /assets/images/argenziano.jpeg
+    image_path: /assets/images/argenziano.jpeg
     alt: "Argenziano"
     title: "Argenziano School Facilities"
   - url: /assets/images/eastsomerville.jpeg

@@ -1,6 +1,11 @@
 ---
 permalink: /about/
 title: "About Brown School"
+layout: slash
+classes: wide
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
 ---
 
 ## The Brown School

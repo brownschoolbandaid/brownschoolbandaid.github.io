@@ -1,17 +1,23 @@
 ---
 permalink: /catchment/
 title: "Why Somervillians love the Brown"
+layout: slash
+classes: wide
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
 ---
 
-## The Brown School get students from all of Somerville
+## The Brown School attracts students from all of Somerville
 
 ![image-full](/assets/images/browncatchment.png){: .full}
-
-## The Brown School is amonst the 10 best Schools in Massachussets
 
 Built in 1900, the Brown School is the oldest elementary school in Somerville. The Brown offers a small school, family atmosphere with a strong emphasis on preparing students to excel academically and personally, providing them with the tools to become productive and positive members of society.
 
 (Excepted from https://somerville.k12.ma.us/schools/benjamin-g-brown-school/brown-academic-offerings)
+
+
+## The Brown School is amonst the 10 best Schools in Massachussets
 
 The Somerville School District is understandably proud of the Brown: despite
 the poor facilities, the school has a very dedicated set of teachers and staff,
