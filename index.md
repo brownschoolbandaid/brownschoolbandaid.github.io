@@ -6,4 +6,6 @@ layout: splash
 author_profile: false
 title: Brown School Bandaid
 classes: wide
+header:
+  overlay_image: /assets/images/injury1.jpeg
 ---
