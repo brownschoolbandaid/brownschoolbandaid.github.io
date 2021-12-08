@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 author_profile: false
-title: Brown School Bandaid
+title: Fixing the Brown School Blacktop
 classes: wide
 header:
   overlay_image: /assets/images/playg.jpg
