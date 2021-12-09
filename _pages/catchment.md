@@ -19,7 +19,7 @@ Built in 1900, the Brown School is the oldest elementary school in Somerville. T
 
 ## The Brown School is amonst the 10 best Schools in Massachussets
 
-![image-left](/assets/images/browncatchment.png){: .left}
+![image-left](/assets/images/unnamed.jpg){: .left}
 
 The Somerville School District is understandably proud of the Brown: despite
 the poor facilities, the school has a very dedicated set of teachers and staff,
