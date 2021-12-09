@@ -32,17 +32,37 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
-## WILL YOUR CHILD BE NEXT?
+## Support a Safe Playground
 
 ![image-left](/assets/images/injury1.jpeg){: .align-left}
 
-There have been 188 injuries at the brown school playground since school started this fall. Scrapes. Head Injuries. A finger sliced. 3 children with broken bones. Just this week, a child was taken to the hospital in an ambulance..
+There have been 188 injuries at the brown school playground since school started this fall. Scrapes. Head Injuries.  3 children with broken bones. Just this week, a child was taken to the hospital in an ambulance..
 
 WE URGENTLY NEED A SOLUTION.
 
-The Brown School PTA has been asking the school system and the city to quickly put in a softer turf surface. This is not a permanent solution, but, rather, a #brownschoolbandaid to keep our children safe.
+The Brown School PTA is asking the City and SPS to quickly put in a softer surface this summer. This is not a permanent solution, but rather a simple #brownschoolbandaid to keep our children safe. 
 
-Our solution can be implemented for less that $250,000 and by the start of the next school year. This is a small price to pay for the safety of our children.
+*Let's patch our playground, not our kids!*
+
+We’re asking the City to simply replace the asphalt with a level and softer surface. Our bandaid solution can be implemented during SUMMER 2022 for ~10% of the cost of the “paused” full playground renovation project. This is a small price to pay for the safety of our children.
+
 
 {% include feature_row  %}
 
+## FAQs
+
+**What do you want?**
+
+To simply replace the existing asphalt surface with a level, soft surface in Summer 2022. The larger more complicated questions regarding future renovations should not be an excuse for inaction today.
+
+**What’s the hurry?**
+
+There are a number of drivers to the timeline:
+
+- The urgency of the situation and injuries that continue to happen to the kids on a daily basis.
+- The overwhelming preference to do a playground renovation during the summer when the weather is warm and the playground is unoccupied.
+- City budgetary cycles and requirements to publicly solicit bids mean that we need action now if we want shovels in the ground this summer.
+
+**What happened to the old playground design?**
+
+Using Community Preservation Act funding, the City started a design process in 2019 and 2020 to renovate both the Brown and the WSCS playgrounds. There were a number of design charrettes held and progress looked imminent. In March 2020, the final public design meeting was cancelled amidst the onset of the COVID pandemic.
