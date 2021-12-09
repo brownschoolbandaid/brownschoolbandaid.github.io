@@ -81,7 +81,7 @@ A 2013 ADA report commissioned by the City cited a number of accessibility probl
 
 **Did the City really tear up the children’s garden for an electrical transformer?**
 
-![image-right](/assets/images/transformerimage.jpeg){: .align-right}
+![image-right](/assets/images/transformerinstalled.png){: .align-right}
 
 Yep. Built and funded by the PTA Garden Committee, the kids put in hundreds of hours maintaining a community garden and it was part of the classroom curriculum for many students. Local organizations used it to introduce the kids to sustainability and environmental topics. They even had an annual harvest. Without telling anyone at the school, the City showed up one day, tore out the children’s garden, poured a concrete slab, and dropped a huge transformer at the front entrance of the school.
 
