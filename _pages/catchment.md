@@ -1,6 +1,6 @@
 ---
 permalink: /catchment/
-title: "Why Somervillians love the Brown"
+title: "A City-Wide School"
 layout: splash
 classes: wide
 header:
@@ -19,15 +19,21 @@ Built in 1900, the Brown School is the oldest elementary school in Somerville. T
 
 ## The Brown School is amonst the 10 best Schools in Massachussets
 
+![image-left](/assets/images/browncatchment.png){: .left}
+
 The Somerville School District is understandably proud of the Brown: despite
 the poor facilities, the school has a very dedicated set of teachers and staff,
-and a very involved ond helpful set of parents.
+and a very involved ond helpful set of parents. Children excel in small learning communities.
 
-It is not surprising that the Brown School is well regarded in the state, even
-winning awards. It is not surprising that families all over Somerville indicate
-it as a preference and the map above shows that the district is resposive to
-their demands.
+The Brown School has been recognized as a MA Commendation School. Commendation Schools are recognized for their high achievement, high progress, and/or narrowing of proficiency gaps.
+https://www.thesomervilletimes.com/archives/73726
 
-It is time for the district to be responsive to the needs of the school and its students. We know that plans are afoot for an overall [renovation](https://www.somervillema.gov/brownschoolrenovation), and we appreciate the school district and the city's initiative on that. 
+The Brown School was recently ranked the #10 Best Elementary School in Massachusetts
+https://www.usnews.com/education/k12/massachusetts/benjamin-g-brown-239890
 
-However, the safety of the school children is paramount, and cannot wait. Thus the situation on the blacktop needs to be tackled immediately.
+It is not surprising that the Brown School is well regarded in the state, even winning awards. It is not surprising that families all over Somerville indicate it as a preference. 
+
+It is time for the district to be responsive to the needs of the school and its students. While there has been discussion for decades of a Brown schoolyard renovation and even a building renovation, the City has not articulated any timeline or committed any money to putting a shovel in the ground.
+
+However, the safety of our school children is paramount and cannot wait. Thus the situation on the blacktop needs to be addressed immediately.
+
