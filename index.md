@@ -46,8 +46,9 @@ The Brown School PTA is asking the City and SPS to quickly put in a softer surfa
 
 We’re asking the City to simply replace the asphalt with a level and softer surface. Our bandaid solution can be implemented during SUMMER 2022 for ~10% of the cost of the “paused” full playground renovation project. This is a small price to pay for the safety of our children.
 
-Email Mary Skipper, superintendent of schools, at [mskipper@k12.somerville.ma.us](mailto:mskipper@k12.somerville.ma.us), asking her to support our
- #brownschoolbandaid solution to deliver a safer playground for our kids by Fall 2022.
+Email Mary Skipper, superintendent of schools, at [mskipper@k12.somerville.ma.us](mailto:mskipper@k12.somerville.ma.us), asking her to support our #brownschoolbandaid solution to deliver a safer playground for our kids by Fall 2022.
+ 
+[Click Here](https://docs.google.com/document/d/1VqnC1T0sPuSkGYL5ldxXCvYayIQFvWeDsonMXY6DEWs/edit?usp=sharing){: .btn .btn--inverse} for a template letter which you can copy into your email.
 
 {% include feature_row  %}
 
