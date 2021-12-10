@@ -17,19 +17,19 @@ Built in 1900, the Brown School is the oldest elementary school in Somerville. T
 (Excepted from https://somerville.k12.ma.us/schools/benjamin-g-brown-school/brown-academic-offerings)
 
 
-## The Brown School is amonst the 10 best Schools in Massachussets
+## The Brown School is among the 10 best Schools in Massachusetts
 
 ![image-left](/assets/images/unnamed.jpg){: .align-left}
 
 The Somerville School District is understandably proud of the Brown: despite
-the poor facilities, the school has a very dedicated set of teachers and staff,
+the aging facilities, the school has a very dedicated set of teachers and staff,
 and a very involved ond helpful set of parents. Children excel in small learning communities.
 
 The Brown School has been recognized as a MA Commendation School. Commendation Schools are recognized for their high achievement, high progress, and/or narrowing of proficiency gaps.
-https://www.thesomervilletimes.com/archives/73726
+[Somerville Times](https://www.thesomervilletimes.com/archives/73726)
 
 The Brown School was recently ranked the #10 Best Elementary School in Massachusetts
-https://www.usnews.com/education/k12/massachusetts/benjamin-g-brown-239890
+[US News & World Report K-12 Rankings](https://www.usnews.com/education/k12/massachusetts/benjamin-g-brown-239890)
 
 It is not surprising that the Brown School is well regarded in the state, even winning awards. It is not surprising that families all over Somerville indicate it as a preference. 
 
