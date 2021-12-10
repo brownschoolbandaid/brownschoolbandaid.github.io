@@ -18,7 +18,7 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/images/browncatchment.png
     alt: "Brown's Catchment Area"
-    title: "Catchment"
+    title: "A City-wide School"
     excerpt: "Brown Students come from all over Somerville"
     url: "/catchment/"
     btn_label: "More"
@@ -36,7 +36,7 @@ feature_row:
 
 ![image-left](/assets/images/injury1.jpeg){: .align-left}
 
-There have been 188 injuries at the brown school playground since school started this fall. Scrapes. Head Injuries.  3 children with broken bones. Just this week, a child was taken to the hospital in an ambulance..
+There have been 188 injuries at the Brown School playground since school started this fall. Scrapes. Head Injuries.  3 children with broken bones. Just this week, a child was taken to the hospital in an ambulance..
 
 WE URGENTLY NEED A SOLUTION.
 
@@ -68,9 +68,9 @@ There are a number of drivers to the timeline:
 
 **What happened to the old playground design?**
 
-Using Community Preservation Act funding, the City started a design process in 2019 and 2020 to renovate both the Brown and the WSCS playgrounds. There were a number of design charrettes held and progress looked imminent. In March 2020, the final public design meeting was cancelled amidst the onset of the COVID pandemic.
+Using Community Preservation Act funding, the City started a design process in 2019 and 2020 to renovate both the Brown and the WSNS playgrounds. There were a number of design charrettes held and progress looked imminent. In March 2020, the final public design meeting was cancelled amidst the onset of the COVID pandemic.
 
-Consumed by the response to the crisis, there was understandably no progress during 2020-21. The Brown School kids were temporarily moved to the SHS modular classrooms before returning to their beloved Willow Ave home. There was no word on the playground for almost a year until January 2021 when it was announced that the WSCS playground would proceed while the Brown was “paused.” No timeline was ever given to resume the Brown playground renovation. The city continues to “study the problem.”
+Consumed by the response to the crisis, there was understandably no progress during 2020-21. The Brown School kids were temporarily moved to the SHS modular classrooms before returning to their beloved Willow Ave home. There was no word on the playground for almost a year until January 2021 when it was announced that the WSNS playground would proceed while the Brown was “paused.” No timeline was ever given to resume the Brown playground renovation. The city continues to “study the problem.”
 
 The proposed designs and meeting notes are [here](https://www.somervillema.gov/brownschoolrenovation).
 
@@ -80,7 +80,7 @@ There have been no substantial improvements to the building in this century, at 
 
 A 2013 ADA report commissioned by the City cited a number of accessibility problems with the building, but it has not resulted in substantial upgrades to the building or playground. See the report for yourself [here](http://ifa.somervillema.gov.s3.amazonaws.com/documents/2013-ada-self-evaluation.pdf).
 
-**Did the City really tear up the children’s garden for an electrical transformer?**
+**Did the City really tear up the childrens' garden for an electrical transformer?**
 
 ![image-right](/assets/images/transformerinstalled.jpg){: .align-right}
 
@@ -90,7 +90,7 @@ We can’t think of a more symptomatic example of the improvement process at the
 
 **What about renovating the whole Brown School?**
 
-Speculation about the future of the Brown is as old as the Brown School. The City has not committed to a renovation or any other long-term plan. There is no design, no funding secured, and no prioritization against the long list of aging buildings in the City’s portfolio. They might break ground in 3 years, 15 years, or never. There has been a series of engineering studies to assess the mechanical and structural properties of the building and some design sketches. We strongly support an open community engagement process with robust parent input and an eventual renovation of the building.
+Speculation about the future of the Brown is as old as the Brown School. The City has not committed to a renovation or any other long-term plan. There is no design, no secured funding, and no prioritization against the long list of aging buildings in the City’s portfolio. They might break ground in 3 years, 15 years, or never. There has been a series of engineering studies to assess the mechanical and structural properties of the building and some design sketches. We strongly support an open community engagement process with robust parent input and an eventual renovation of the building.
 
 In the meantime, an entire generation of students will go through the Brown while this process plays out. Design, funding, and community input for a major renovation could take several years, even if the City decided to do it today. And that’s before a shovel is in the ground.
 
@@ -103,10 +103,14 @@ In the meantime, let’s patch the playground!
 In a Dec 2017 letter to the community, Mayor Curtatone and Superintendent Skipper said the following:
 
 *“The City has made substantial investments in our schoolyards, and more investment is in the pipeline. Half of Somerville’s schoolyards have been substantially renovated in the last five years. There is a new playground at the John F. Kennedy School, and both the Capuano Early Childhood Center and the East Somerville Community School received new schoolyards as part of the construction of their new school buildings. The redesigned Albert F. Argenziano Schoolyard opened in September 2016 and the adjacent Lincoln Park facility is nearing completion. A new playing field at the Winter Hill Community Innovation School was completed in August 2017, and construction of the upper schoolyard is underway.*
+ 
+..
 
 *While we are pleased with this progress, we recognize that three Somerville schoolyards remain below the standard we want for the children of our city, or that you expect as parents: the Benjamin G. Brown School, the Arthur D. Healey School, and the West Somerville Neighborhood School schoolyards.”*
 
-“We look forward to cutting the ribbons on these projects with you and seeing our students playing in the high quality schoolyards they deserve.”
+..
+
+*“We look forward to cutting the ribbons on these projects with you and seeing our students playing in the high quality schoolyards they deserve.”*
 
 We agree.
 
@@ -118,13 +122,13 @@ Let’s fix this.
 
 **Who are you?**
 
-We are the Brown School PTA Infrastructure Committee. In addition to being Brown Schoolparents, many of us are architects, construction and building experts, professors, and others with considerable experience in building projects. We know what we’re asking for and what’s possible. Some of us have been part of this process for a decade and we’re still waiting for progress.
+We are the Brown School PTA Infrastructure Committee. In addition to being Brown School parents, many of us are architects, construction and building experts, professors, and others with considerable experience in building projects. We know what we’re asking for and what’s possible. Some of us have been part of this process for a decade and we’re still waiting for progress.
 
 **Who do I contact?**
 
-- City Councilors (socials and emails): https://www.somervillema.gov/departments/city-council
-- School Committee (socials and emails): https://somerville.k12.ma.us/district-leadership/somerville-school-committee
-- Mayor: https://www.somervillema.gov/departments/mayors-office
+- [City Council](https://www.somervillema.gov/departments/city-council)
+- [School Committee](https://somerville.k12.ma.us/district-leadership/somerville-school-committee)
+- [Mayor](https://www.somervillema.gov/departments/mayors-office)
 - Email Mary Skipper, superintendent of schools, at [mskipper@k12.somerville.ma.us](mailto:mskipper@k12.somerville.ma.us), asking her to support our
  #brownschoolbandaid solution to deliver a safer playground for our kids by Fall 2022.
 
