@@ -18,7 +18,7 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/images/browncatchment.png
     alt: "Brown's Catchment Area"
-    title: "A City-wide School"
+    title: "A City-Wide School"
     excerpt: "Brown Students come from all over Somerville"
     url: "/catchment/"
     btn_label: "More"
