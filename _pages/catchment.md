@@ -26,9 +26,11 @@ the aging facilities, the school has a very dedicated set of teachers and staff,
 and a very involved ond helpful set of parents. Children excel in small learning communities.
 
 The Brown School has been recognized as a MA Commendation School. Commendation Schools are recognized for their high achievement, high progress, and/or narrowing of proficiency gaps.
+
 [Somerville Times](https://www.thesomervilletimes.com/archives/73726)
 
 The Brown School was recently ranked the #10 Best Elementary School in Massachusetts
+
 [US News & World Report K-12 Rankings](https://www.usnews.com/education/k12/massachusetts/benjamin-g-brown-239890)
 
 It is not surprising that the Brown School is well regarded in the state, even winning awards. It is not surprising that families all over Somerville indicate it as a preference. 
