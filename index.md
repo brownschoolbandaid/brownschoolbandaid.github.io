@@ -42,7 +42,7 @@ We hope you can join us-
 
 *Wed, Dec 14, 2021 8pm*
 
-[https://meet.google.com/huq-tija-fbc] (https://meet.google.com/huq-tija-fbc)
+[https://meet.google.com/huq-tija-fbc](https://meet.google.com/huq-tija-fbc)
 
 
 
