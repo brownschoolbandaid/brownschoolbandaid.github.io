@@ -34,6 +34,18 @@ feature_row:
 
 ## Support a Safe Playground
 
+**NEWS**
+
+We hope you can join us-
+
+**Support a Safe Playground Webinar - Brown School PTA Infrastructure Committee "Bandaid" Proposal**
+
+*Wed, Dec 14, 2021 8pm*
+
+[https://meet.google.com/huq-tija-fbc] (https://meet.google.com/huq-tija-fbc)
+
+
+
 ![image-left](/assets/images/injury1.jpeg){: .align-left}
 
 There have been 188 injuries at the Brown School playground since school started this fall. Scrapes. Head Injuries.  3 children with broken bones. Just this week, a child was taken to the hospital in an ambulance..
