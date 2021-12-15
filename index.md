@@ -98,7 +98,7 @@ A 2013 ADA report commissioned by the City cited a number of accessibility probl
 
 Yep. Built and funded by the PTA Garden Committee, the kids put in hundreds of hours maintaining a community garden and it was part of the classroom curriculum for many students. Local organizations used it to introduce the kids to sustainability and environmental topics. They even had an annual harvest. Without telling anyone at the school, the City showed up one day, tore out the children’s garden, poured a concrete slab, and dropped a huge transformer at the front entrance of the school.
 
-We can’t think of a more symptomatic example of the improvement process at the Brown.
+We can’t think of a more emblematic example of the improvement process at the Brown.
 
 **What about renovating the whole Brown School?**
 
