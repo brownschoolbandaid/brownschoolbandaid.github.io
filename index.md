@@ -34,21 +34,9 @@ feature_row:
 
 ## Support a Safe Playground
 
-**NEWS**
-
-We hope you can join us-
-
-**Support a Safe Playground Webinar - Brown School PTA Infrastructure Committee "Bandaid" Proposal**
-
-*Wed, Dec 15, 2021 8pm*
-
-[https://meet.google.com/huq-tija-fbc](https://meet.google.com/huq-tija-fbc)
-
-
-
 ![image-left](/assets/images/injury1.jpeg){: .align-left}
 
-There have been 188 injuries at the Brown School playground since school started this fall. Scrapes. Head Injuries.  3 children with broken bones. Just this week, a child was taken to the hospital in an ambulance..
+There have been 232 injuries at the Brown School playground since school started this fall. Scrapes. Head Injuries.  3 children with broken bones. In December, a child was taken to the hospital in an ambulance.
 
 WE URGENTLY NEED A SOLUTION.
 
@@ -88,7 +76,7 @@ The proposed designs and meeting notes are [here](https://www.somervillema.gov/b
 
 **What improvements have they done?**
 
-There have been no substantial improvements to the building in this century, at least as far back as digital records go. Other than some surface painting and patching, there have been no improvements to the playground. It was formerly cited that the City needed to reserve the playground as snow emergency parking, but that policy  is no longer in practice.
+There have been no substantial improvements to the building in this century, at least as far back as digital records go. Other than some surface painting and patching, there have been no improvements to the playground. It was formerly cited that the City needed to reserve the playground as snow emergency parking, but that policy is no longer in practice.
 
 A 2013 ADA report commissioned by the City cited a number of accessibility problems with the building, but it has not resulted in substantial upgrades to the building or playground. See the report for yourself [here](http://ifa.somervillema.gov.s3.amazonaws.com/documents/2013-ada-self-evaluation.pdf).
 
