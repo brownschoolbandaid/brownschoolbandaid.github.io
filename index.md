@@ -76,15 +76,15 @@ The proposed designs and meeting notes were posted [here](https://www.somerville
 
 We have archived copies:
 
-[First Public Meeting Presentation - December 2018](https://drive.google.com/file/d/151GN2ebKs4zu-t1Mag09rYwsr1xKSbo_/view?usp=sharing)
+[Public Meeting Presentation - December 2018](https://drive.google.com/file/d/151GN2ebKs4zu-t1Mag09rYwsr1xKSbo_/view?usp=sharing)
 
-[First Public Meeting Minutes - December 2018](https://drive.google.com/file/d/1zNpubif2fiaMxXjIL-cXDZDMcT8vrLPw/view?usp=sharing)
+[Public Meeting Minutes - December 2018](https://drive.google.com/file/d/1zNpubif2fiaMxXjIL-cXDZDMcT8vrLPw/view?usp=sharing)
 
-[Second Public Meeting Presentation - November 2019](https://drive.google.com/file/d/1WmK9TaZT63TYwZGL9Nrllo23weQr8NLE/view?usp=sharing)
+[First Public Meeting Presentation - November 2019](https://drive.google.com/file/d/1WmK9TaZT63TYwZGL9Nrllo23weQr8NLE/view?usp=sharing)
 
-[Second Public Meeting Minutes - November 2019](https://drive.google.com/file/d/1-VcCztW5vN0nUakseIZe-h75HGmFujP8/view?usp=sharing)
+[First Public Meeting Minutes - November 2019](https://drive.google.com/file/d/1-VcCztW5vN0nUakseIZe-h75HGmFujP8/view?usp=sharing)
 
-[Third Public Meeting - scheduled for March 2020](https://drive.google.com/file/d/1LMlbiicamfexBYIlA3Se6fXal0E0qFB1/view?usp=sharing)
+[Second Public Meeting - scheduled for March 2020](https://drive.google.com/file/d/1LMlbiicamfexBYIlA3Se6fXal0E0qFB1/view?usp=sharing)
 
 
 **What improvements have they done?**
