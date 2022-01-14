@@ -62,7 +62,7 @@ The City's [2008-2013 Open Spaces and Recreation Plan](http://www.mapc.org/wp-co
 
 The City's [2016-2023 Open Spaces and Recreation Plan](https://2xbcbm3dmbsg12akbzq9ef2k-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/OSRP_Final-BOOK.pdf) also rated the schoolyard as "poor."
 
-Twelve years later, it's still poor.
+Twelve years later, nothing has been done to improve it.
 
 **What’s the hurry?**
 
