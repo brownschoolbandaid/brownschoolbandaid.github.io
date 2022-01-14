@@ -58,6 +58,12 @@ Email Mary Skipper, superintendent of schools, at [mskipper@k12.somerville.ma.us
 
 To simply replace the existing asphalt surface with a level, soft surface in Summer 2022. The larger more complicated questions regarding future renovations should not be an excuse for inaction today.
 
+The City's [2008-2013 Open Spaces and Recreation Plan](http://www.mapc.org/wp-content/uploads/2017/11/Somervile_Open_Space_and_Recreation_Plan_2008-2013.pdf) rated the schoolyard as "poor."
+
+The City's [2016-2023 Open Spaces and Recreation Plan](https://2xbcbm3dmbsg12akbzq9ef2k-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/OSRP_Final-BOOK.pdf) also rated the schoolyard as "poor."
+
+Twelve years later, it's still poor.
+
 **What’s the hurry?**
 
 There are a number of drivers to the timeline:
