@@ -75,6 +75,7 @@ Consumed by the response to the crisis, there was understandably no progress dur
 The proposed designs and meeting notes were [here](https://www.somervillema.gov/brownschoolrenovation) but the city recently removed them from the website.
 
 We have archived copies:
+
 [First Public Meeting Presentation - December 2018](https://drive.google.com/file/d/151GN2ebKs4zu-t1Mag09rYwsr1xKSbo_/view?usp=sharing)
 
 [First Public Meeting Minutes - December 2018](https://drive.google.com/file/d/1zNpubif2fiaMxXjIL-cXDZDMcT8vrLPw/view?usp=sharing)
