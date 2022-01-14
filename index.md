@@ -72,7 +72,15 @@ Using Community Preservation Act funding, the City started a design process in 2
 
 Consumed by the response to the crisis, there was understandably no progress during 2020-21. The Brown School kids were temporarily moved to the SHS modular classrooms before returning to their beloved Willow Ave home. There was no word on the playground for almost a year until January 2021 when it was announced that the WSNS playground would proceed while the Brown was “paused.” No timeline was ever given to resume the Brown playground renovation. The city continues to “study the problem.”
 
-The proposed designs and meeting notes are [here](https://www.somervillema.gov/brownschoolrenovation).
+The proposed designs and meeting notes were [here](https://www.somervillema.gov/brownschoolrenovation) but the city recently removed them from the website.
+
+We have archived copies:
+[First Public Meeting Presentation - December 2018](https://drive.google.com/file/d/151GN2ebKs4zu-t1Mag09rYwsr1xKSbo_/view?usp=sharing){: .btn .btn--inverse}
+[First Public Meeting Minutes - December 2018](https://drive.google.com/file/d/1zNpubif2fiaMxXjIL-cXDZDMcT8vrLPw/view?usp=sharing){: .btn .btn--inverse}
+[Second Public Meeting Presentation - November 2019](https://drive.google.com/file/d/1WmK9TaZT63TYwZGL9Nrllo23weQr8NLE/view?usp=sharing){: .btn .btn--inverse}
+[Second Public Meeting Minutes - November 2019](https://drive.google.com/file/d/1-VcCztW5vN0nUakseIZe-h75HGmFujP8/view?usp=sharing){: .btn .btn--inverse}
+[Third Public Meeting - scheduled for March 2020](https://drive.google.com/file/d/1LMlbiicamfexBYIlA3Se6fXal0E0qFB1/view?usp=sharing){: .btn .btn--inverse}
+
 
 **What improvements have they done?**
 
