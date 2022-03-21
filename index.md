@@ -36,7 +36,7 @@ feature_row:
 
 ![image-left](/assets/images/injury1.jpeg){: .align-left}
 
-There have been 232 injuries at the Brown School playground since school started this fall. Scrapes. Head Injuries.  3 children with broken bones. In December, a child was taken to the hospital in an ambulance.
+As of January, there have been 232 injuries at the Brown School playground since school started this fall. Scrapes. Head Injuries.  3 children with broken bones. In December, a child was taken to the hospital in an ambulance.
 
 WE URGENTLY NEED A SOLUTION.
 
@@ -44,7 +44,7 @@ The Brown School PTA is asking the City and SPS to quickly put in a softer surfa
 
 *Let's patch our playground, not our kids!*
 
-We’re asking the City to simply replace the asphalt with a level and softer surface. Our bandaid solution can be implemented during SUMMER 2022 for ~10% of the cost of the “paused” full playground renovation project. This is a small price to pay for the safety of our children.
+We’re asking the City to simply replace the asphalt with a level and softer surface. Our bandaid solution can be implemented during SUMMER 2022 for much less than the cost of the “paused” full playground renovation project. This is a small price to pay for the safety of our children.
 
 Email the mayor, Katjana Ballantyne, at [mayor@somervillema.gov](mailto:mayor@somervillema.gov) asking her to support our #brownschoolbandaid solution to deliver a safer playground for our kids by Fall 2022.
  
@@ -76,9 +76,9 @@ There are a number of drivers to the timeline:
 
 Using Community Preservation Act funding, the City started a design process in 2019 and 2020 to renovate both the Brown and the WSNS playgrounds. There were a number of design charrettes held and progress looked imminent. In March 2020, the final public design meeting was cancelled amidst the onset of the COVID pandemic.
 
-Consumed by the response to the crisis, there was understandably no progress during 2020-21. The Brown School kids were temporarily moved to the SHS modular classrooms before returning to their beloved Willow Ave home. There was no word on the playground for almost a year until January 2021 when it was announced that the WSNS playground would proceed while the Brown was “paused.” No timeline was ever given to resume the Brown playground renovation. The city continues to “study the problem.”
+Consumed by the response to the crisis, there was understandably no progress during 2020-21. The Brown School kids were temporarily moved to the SHS modular classrooms before returning to their beloved Willow Ave home. There was no word on the playground for almost a year until January 2021 when it was announced that the WSNS playground would proceed while the Brown was “paused.” No timeline was ever given to resume the Brown playground renovation. The city continues to “study the problem.” In the last two years, there has never been an official communication from the City -- not even an email -- about the status of the project.
 
-The proposed designs and meeting notes were posted [here](https://www.somervillema.gov/brownschoolrenovation) but the city recently removed them from their website stating that the project is indefinitely postponed "until further studies."
+The proposed designs and meeting notes were posted [here](https://www.somervillema.gov/brownschoolrenovation) but the city recently removed them from their website stating that the project is indefinitely postponed "until further studies." 
 
 We have archived copies:
 
@@ -109,7 +109,7 @@ We can’t think of a more emblematic example of the improvement process at the 
 
 **What about renovating the whole Brown School?**
 
-Speculation about the future of the Brown is as old as the Brown School. The City has not committed to a renovation or any other long-term plan. There is no design, no secured funding, and no prioritization against the long list of aging buildings in the City’s portfolio. They might break ground in 3 years, 15 years, or never. There has been a series of engineering studies to assess the mechanical and structural properties of the building and some design sketches. We strongly support an open community engagement process with robust parent input and an eventual renovation of the building.
+Speculation about the future of the Brown is as old as the Brown School. The City has not committed to a renovation or any other long-term plan. There is no design, no secured funding, and no prioritization against the long list of aging buildings in the City’s portfolio. They might break ground in 3 years, 15 years, or never. There has been a series of engineering studies to assess the mechanical and structural properties of the building and some design sketches. We strongly support an open community engagement process with robust parent input and an eventual renovation of the building. We have been requesting a copy of the Summer '21 engineering report and still haven't received it as of March '22.
 
 In the meantime, an entire generation of students will go through the Brown while this process plays out. Design, funding, and community input for a major renovation could take several years, even if the City decided to do it today. And that’s before a shovel is in the ground.
 
